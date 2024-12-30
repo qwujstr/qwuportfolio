@@ -1,2 +1,1 @@
-# qwuportfolio
 My portfolio
